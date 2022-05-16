@@ -1,0 +1,12 @@
+{
+    "name": "kWjs",
+    "version": "1.0.0",
+    "ignore": [],
+    "dependencies": 
+    {
+        "jquery"        : "1.11.0",
+        "jquery-cookie" : "1.4.1",
+        "jquery-pubsub" : "1.1.2",
+        "requirejs"     : "2.1.20"
+    }
+}
